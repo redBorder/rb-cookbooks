@@ -19,3 +19,6 @@
 [submodule "iptables"]
 	path = iptables
 	url = git@github.com:redBorder/cookbook-iptables.git
+[submodule "memcached"]
+	path = memcached
+	url = git@github.com:redBorder/cookbook-memcached.git
