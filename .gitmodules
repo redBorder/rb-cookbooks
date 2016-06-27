@@ -25,3 +25,15 @@
 [submodule "pgpool"]
 	path = pgpool
 	url = git@github.com:redBorder/cookbook-pgpool.git
+[submodule "rb-monitor"]
+	path = rb-monitor
+	url = git@github.com:redBorder/cookbook-rb-monitor.git
+[submodule "rb-webui"]
+	path = rb-webui
+	url = git@github.com:redBorder/cookbook-rb-webui.git
+[submodule "secor"]
+	path = secor
+	url = git@github.com:redBorder/cookbook-secor.git
+[submodule "sshd"]
+	path = sshd
+	url = git@github.com:redBorder/cookbook-sshd.git
