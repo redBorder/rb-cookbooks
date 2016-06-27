@@ -22,3 +22,6 @@
 [submodule "memcached"]
 	path = memcached
 	url = git@github.com:redBorder/cookbook-memcached.git
+[submodule "pgpool"]
+	path = pgpool
+	url = git@github.com:redBorder/cookbook-pgpool.git
