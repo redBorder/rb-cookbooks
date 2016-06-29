@@ -1,39 +1,39 @@
 [submodule "rb-manager"]
 	path = rb-manager
-	url = git@github.com:redBorder/cookbook-rb-manager.git
+	url = https://github.com/redBorder/cookbook-rb-manager.git
 [submodule "kafka"]
 	path = kafka
-	url = git@github.com:redBorder/cookbook-kafka.git
+	url = https://github.com/redBorder/cookbook-kafka.git
 [submodule "zookeeper"]
 	path = zookeeper
-	url = git@github.com:redBorder/cookbook-zookeeper.git
+	url = https://github.com/redBorder/cookbook-zookeeper.git
 [submodule "nomad"]
 	path = nomad
-	url = git@github.com:redBorder/cookbook-nomad.git
+	url = https://github.com/redBorder/cookbook-nomad.git
 [submodule "http2k"]
 	path = http2k
-	url = git@github.com:redBorder/cookbook-http2k.git
+	url = https://github.com/redBorder/cookbook-http2k.git
 [submodule "druid"]
 	path = druid
-	url = git@github.com:redBorder/cookbook-druid.git
+	url = https://github.com/redBorder/cookbook-druid.git
 [submodule "iptables"]
 	path = iptables
-	url = git@github.com:redBorder/cookbook-iptables.git
+	url = https://github.com/redBorder/cookbook-iptables.git
 [submodule "memcached"]
 	path = memcached
-	url = git@github.com:redBorder/cookbook-memcached.git
+	url = https://github.com/redBorder/cookbook-memcached.git
 [submodule "pgpool"]
 	path = pgpool
-	url = git@github.com:redBorder/cookbook-pgpool.git
+	url = https://github.com/redBorder/cookbook-pgpool.git
 [submodule "rb-monitor"]
 	path = rb-monitor
-	url = git@github.com:redBorder/cookbook-rb-monitor.git
+	url = https://github.com/redBorder/cookbook-rb-monitor.git
 [submodule "rb-webui"]
 	path = rb-webui
-	url = git@github.com:redBorder/cookbook-rb-webui.git
+	url = https://github.com/redBorder/cookbook-rb-webui.git
 [submodule "secor"]
 	path = secor
-	url = git@github.com:redBorder/cookbook-secor.git
+	url = https://github.com/redBorder/cookbook-secor.git
 [submodule "sshd"]
 	path = sshd
-	url = git@github.com:redBorder/cookbook-sshd.git
+	url = https://github.com/redBorder/cookbook-sshd.git
