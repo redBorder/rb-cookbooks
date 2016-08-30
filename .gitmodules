@@ -46,3 +46,6 @@
 [submodule "logrotate"]
 	path = logrotate
 	url = https://github.com/redBorder/cookbook-logrotate.git
+[submodule "compat_resource"]
+	path = compat_resource
+	url = https://github.com/redBorder/cookbook-compat_resource.git
