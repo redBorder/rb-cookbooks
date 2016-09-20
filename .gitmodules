@@ -43,3 +43,6 @@
 [submodule "logrotate"]
 	path = logrotate
 	url = https://github.com/redBorder/cookbook-logrotate.git
+[submodule "chef-server"]
+	path = chef-server
+	url = https://github.com/redBorder/cookbook-chef-server.git
