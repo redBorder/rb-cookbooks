@@ -37,15 +37,9 @@
 [submodule "sshd"]
 	path = sshd
 	url = https://github.com/redBorder/cookbook-sshd.git
-[submodule "chef-client"]
-	path = chef-client
-	url = https://github.com/redBorder/cookbook-chef-client.git
 [submodule "cron"]
 	path = cron
 	url = https://github.com/redBorder/cookbooks-cron.git
 [submodule "logrotate"]
 	path = logrotate
 	url = https://github.com/redBorder/cookbook-logrotate.git
-[submodule "compat_resource"]
-	path = compat_resource
-	url = https://github.com/redBorder/cookbook-compat_resource.git
