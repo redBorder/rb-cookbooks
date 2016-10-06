@@ -43,3 +43,6 @@
 [submodule "chef-server"]
 	path = chef-server
 	url = https://github.com/redBorder/cookbook-chef-server.git
+[submodule "riak"]
+	path = riak
+	url = https://github.com/redBorder/cookbook-riak.git
